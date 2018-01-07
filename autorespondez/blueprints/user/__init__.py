@@ -1,0 +1,1 @@
+from autorespondez.blueprints.user.views import user

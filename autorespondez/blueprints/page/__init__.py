@@ -1,0 +1,1 @@
+from autorespondez.blueprints.page.views import page
